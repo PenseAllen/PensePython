@@ -48,7 +48,7 @@ Esta edição de _Pense em Python_ tem as seguintes novidades:
 
 * Para [“Módulo turtle”](./04-caso-interface.md#42---módulo-turtle) troquei meu próprio pacote gráfico turtle, chamado Swampy, para um módulo Python mais padronizado, turtle, que é mais fácil de instalar e mais eficiente.
 
-* Acrescentei um novo capítulo chamado [“Extra”](./09-extra.md), que introduz alguns recursos adicionais do Python, não estritamente necessários, mas às vezes práticos.
+* Acrescentei um novo capítulo chamado [“Extra”](./19-extra.md), que introduz alguns recursos adicionais do Python, não estritamente necessários, mas às vezes práticos.
 
 Espero que goste de trabalhar com este livro, e que ele o ajude a aprender a programar e pensar, pelo menos um pouquinho, como um cientista da computação.
 
