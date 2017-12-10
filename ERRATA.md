@@ -14,6 +14,9 @@ O título desta sessão em inglês é "Using Code Examples". Em português, "Uso
 
 Parágrafo 3, "`__main__`, que é um nome especial para o frame na posição mais proeminente"; no original, trata-se do "topmost frame". Seria melhor traduzir como "o frame no topo da pilha" (veja figura 3.1)
 
+### Glossário função:
+"Uma sequência nomeada de declarações que executa alguma operação útil." eu (Lipe-G4rfield) creio que erraram ao colocarem 'declarações', o certo seria "Uma sequência nomeada de INSTRUÇÕES que executa alguma operação útil."
+
 
 ## Capítulo 5
 
