@@ -61,7 +61,7 @@ Agora você está pronto para começar. Daqui em diante, vou supor que você sab
 
 ## 1.3 - O primeiro programa
 
-Tradicionalmente, o primeiro programa que se escreve em uma nova linguagem chama-se “Hello, World!”, porque tudo o que faz é exibir as palavras “Hello, World!” na tela. No Python, ele se parece com isto:
+Tradicionalmente, o primeiro programa que se escreve em uma nova linguagem chama-se “Hello, World!” porque tudo o que faz é exibir as palavras “Hello, World!” na tela. No Python, ele se parece com isto:
 
 ```python
 >>> print('Hello, World!')
