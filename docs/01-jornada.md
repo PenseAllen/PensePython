@@ -41,7 +41,7 @@ Há uma série de sites que ajudam a usar e executar o Python. Se já tem um fav
 
 Há duas versões do Python, o Python 2 e o Python 3. Como elas são muito semelhantes, se você aprender uma versão, é fácil trocar para a outra. Como é iniciante, você encontrará poucas diferenças. Este livro foi escrito para o Python 3, mas também incluí algumas notas sobre o Python 2.
 
-O __interpretador__ do Python é um programa que lê e executa o código Python. Dependendo do seu ambiente, é possível iniciar o interpretador clicando em um ícone, ou digitando python em uma linha de comando. Quando ele iniciar, você deverá ver uma saída como esta:
+O __interpretador__ do Python é um programa que lê e executa o código Python. Dependendo do seu ambiente, é possível iniciar o interpretador clicando em um ícone, ou digitando `python` em uma linha de comando. Quando ele iniciar, você deverá ver uma saída como esta:
 
 ```python
 Python 3.4.0 (default, Jun 19 2015, 14:20:21)
