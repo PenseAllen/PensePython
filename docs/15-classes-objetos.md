@@ -153,8 +153,6 @@ A expressão `box.corner.x` significa “Vá ao objeto ao qual `box` se refere e
 
 A Figura 15.2 mostra o estado deste objeto. Um objeto que é um atributo de outro objeto é integrado.
 
-A Figura 10.1 mostra o diagrama de estado para cheeses, numbers e empty.
-
 ![Figura 15.2 – Diagrama de um objeto Rectangle.](https://github.com/PenseAllen/PensePython2e/raw/master/fig/tnkp_1502.png)
 <br>_Figura 15.2 – Diagrama de um objeto_ `Rectangle`.
 

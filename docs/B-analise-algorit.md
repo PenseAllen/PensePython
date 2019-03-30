@@ -160,7 +160,7 @@ Se a sequência tiver um milhão de itens, serão necessários cerca de 20 passo
 
 A busca por bisseção pode ser muito mais rápida que a busca linear, mas é preciso que a sequência esteja em ordem, o que pode exigir trabalho extra.
 
-Há outra estrutura de dados chamada hashtable, que é até mais rápida – você pode fazer uma busca em tempo constante – e ela não exige que os itens estejam ordenados. Os dicionários do Python são implementados usando hashtables e é por isso a maior parte das operações de dicionário, incluindo o operador in, são de tempo constante.
+Há outra estrutura de dados chamada hashtable, que é até mais rápida – você pode fazer uma busca em tempo constante – e ela não exige que os itens estejam ordenados. Os dicionários do Python são implementados usando hashtables e é por isso que a maior parte das operações de dicionário, incluindo o operador in, são de tempo constante.
 
 ## B.4 - Hashtables
 
