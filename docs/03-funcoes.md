@@ -197,8 +197,9 @@ I'm a lumberjack, and I'm okay.
 I sleep all night and I work all day.
 I'm a lumberjack, and I'm okay.
 I sleep all night and I work all day.
-Mas a canção não é bem assim.
 ```
+
+Mas a canção não é bem assim.
 
 ## 3.5 - Uso e definições
 
