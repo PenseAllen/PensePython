@@ -540,7 +540,7 @@ do_twice(print_spam)
 
 4. Use a versão alterada de `do_twice` para chamar `print_twice` duas vezes, passando `'spam'` como um argumento.
 
-5. Defina uma função nova chamada `do_four` que receba um objeto de função e um valor e chame a função quatro vezes, passando o valor como um parâmetro. Deve haver só duas afirmações no corpo desta função, não quatro.
+5. Defina uma função nova chamada `do_four` que receba um objeto de função e um valor e chame a função quatro vezes, passando o valor como um parâmetro. Deve haver só duas instruções no corpo desta função, não quatro.
 
 Solução: http://thinkpython2.com/code/do_four.py.
 
